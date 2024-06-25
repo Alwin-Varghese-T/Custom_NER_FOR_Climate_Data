@@ -1,4 +1,4 @@
-import jso
+import json
 
 
 def load_json(filepath):
